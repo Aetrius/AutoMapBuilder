@@ -10,3 +10,6 @@ Analyze a song (perform various detections such as rhythm, beat, tempo).
 Export:
 BeatSaber File with Difficulty Parameters.
 
+Dependencies:
+Newtonsoft - JSON.NET
+Github - Source Control
