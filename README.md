@@ -1,5 +1,5 @@
 # AutoMapBuilder
-<h1>Beat Saber - Auto Map Builder</h1><br><br>
+<h2>Beat Saber - Auto Map Builder</h2>
 
 <b>Purpose: To drastically simplify the creation of a BeatSaber track. Automating as much of the map building as possible. More tracks = more fun right?</b><br><br>
 
