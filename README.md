@@ -1,15 +1,18 @@
 # AutoMapBuilder
-Beat Saber - Auto Map Builder
+Beat Saber - Auto Map Builder<br><br>
 
-Purpose: To drastically simplify the creation of a BeatSaber track. Automating as much of the map building as possible. More tracks = more fun right?
+<b>Purpose: To drastically simplify the creation of a BeatSaber track. Automating as much of the map building as possible. More tracks = more fun right?</b><br><br>
 
-Function:
-Import a song (.mp4, .ogg, etc.)
-Analyze a song (perform various detections such as rhythm, beat, tempo).
+<b>Function:</b>
+Import a song (.mp4, .ogg, etc.) <br>
+Analyze a song (perform various detections such as rhythm, beat, tempo).<br><br>
 
-Export:
-BeatSaber File with Difficulty Parameters.
+<b>Export:</b><br>
+BeatSaber File with Difficulty Parameters.<br><br>
 
-Dependencies:
-Newtonsoft - JSON.NET
-Github - Source Control
+<b>Dependencies:</b><br>
+Newtonsoft - JSON.NET<br>
+Github - Source Control<br><br>
+
+<b>Suggestions:</b><br>
+Reading the JSON files is easier with a formatting tool like JSON Formatter & Validator: https://jsonformatter.curiousconcept.com/
