@@ -68,5 +68,13 @@ namespace AutoMapBuilder
         private static int LIGHTING_RED_ALT = 6; //Unverified difference between RED AND RED_ALT
         private static int LIGHTING_RED_FADEOUT = 7; 
         
+        private object BuildBeatMap()
+        {
+            return null;//construct a basic beatmap JSON array.
+        }
+
+        
+
+        
     }
 }

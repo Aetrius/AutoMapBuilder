@@ -44,6 +44,7 @@
             this.btnImportSong.TabIndex = 0;
             this.btnImportSong.Text = "Import Song";
             this.btnImportSong.UseVisualStyleBackColor = true;
+            this.btnImportSong.Click += new System.EventHandler(this.btnImportSong_Click);
             // 
             // lblSongPathStatic
             // 
