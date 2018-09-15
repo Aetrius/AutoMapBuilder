@@ -14,5 +14,13 @@ namespace AutoMapBuilder
         public int _type { get; set; }
         public int _cutDirection { get; set; }
 
+        public Notes(double timeIn, int lineIndexIn, int lineLayerIn, int typeIn, int cutDirectionIn)
+        {
+            _time = timeIn;
+            _lineIndex = lineIndexIn;
+            _lineLayer = lineLayerIn;
+            _type = typeIn;
+            _cutDirection = cutDirectionIn;
+        }
     }
 }
